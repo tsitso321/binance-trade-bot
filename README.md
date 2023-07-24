@@ -1,4 +1,4 @@
-# binance-trade-bot
+# binance trade bot
 > Automated cryptocurrency trading bot
 
 ![github](https://img.shields.io/github/workflow/status/edeng23/binance-trade-bot/binance-trade-bot)
